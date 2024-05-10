@@ -1,7 +1,7 @@
 # 📈 SentimentTrader
 
 This project that combines stock price prediction with sentiment analysis. It consists of two main components: a Jupyter notebook for exploring stock data and headline data, and a Streamlit app for real-time stock price prediction using AI-based sentiment analysis.
-## See Demo 🌐 [Click here]([https://data-analysis-app-geminpro.streamlit.app](https://sentimenttrader.streamlit.app/Market_info))
+## See Demo 🌐 [Click here](https://sentimenttrader.streamlit.app/Market_info)
 ![Project Picture](https://github.com/BelhsanHmida/Stock_Prediction_with_News_Headlines_Sentiment_Analysi/blob/main/artifacts/SentimentTrader.PNG)
 
 
